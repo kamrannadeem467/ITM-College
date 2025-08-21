@@ -1,0 +1,12 @@
+﻿@model IEnumerable<ITM_College.Areas.Identity.Data.Department>
+
+
+    @foreach (var dept in Model)
+    {
+        <li>
+            <a asp-controller="Home" asp-action="Faculties" asp-route-departmentId="@dept.Id">
+                @dept.DepartmentName
+            </a>
+        </li>
+    }
+

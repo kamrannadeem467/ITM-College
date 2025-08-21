@@ -4,7 +4,7 @@ namespace ITM_College.Areas.Identity.Data
 {
     public class Department
     {
-        public Guid DepartmentId { get; set; }
+        public Guid Id { get; set; }
 
         [Required]
         [StringLength(100)]

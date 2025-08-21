@@ -1,0 +1,91 @@
+﻿@model IEnumerable<ITM_College.Areas.Identity.Data.Faculty>
+<section class="grey page-title">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-6 text-left">
+				<h1>Single Course Page</h1>
+			</div>
+			<div class="col-md-6 text-right">
+				<div class="bread">
+					<ol class="breadcrumb">
+						<li><a href="#">Home</a></li>
+						<li><a href="#">Courses</a></li>
+						<li class="active">Single Course Page</li>
+					</ol>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+<section class="white section">
+	<div class="container">
+		<div class="row">
+			<div id="course-left-sidebar" class="col-md-4">
+				<div class="course-image-widget">
+					<img src="upload/xcourse_01.png.pagespeed.ic.XTOvCuUmZu.png" alt="" class="img-responsive">
+				</div>
+				<div class="course-meta">
+					<p class="course-category">Category : <a href="course-list.html">Graphic Design</a></p>
+					<hr>
+					<div class="rating">
+						<p>
+							Reviews : &nbsp;
+							<i class="fa fa-star"></i>
+							<i class="fa fa-star"></i>
+							<i class="fa fa-star"></i>
+							<i class="fa fa-star"></i>
+							<i class="fa fa-star-o"></i>
+							<a title="" href="#reviews">&nbsp; (3)</a>
+						</p>
+					</div>
+					<hr>
+					<p class="course-student">Students : 21 Members </p>
+					<hr>
+					<p class="course-time">Perriod : 12 Month </p>
+					<hr>
+					<p class="course-prize">Prize : <i class="fa fa-trophy"></i> <i class="fa fa-certificate"></i> <i class="fa fa-shield"></i></p>
+					<hr>
+					<p class="course-instructors">Instructor : <a href="#" title=""><img src="upload/xstudent_01.png.pagespeed.ic.756JwMcqdq.png" class="img-circle" alt=""> John DOE</a></p>
+					<hr>
+					<p class="course-forum">Course Forum : <a href="#" title="">Web Designers</a></p>
+				</div>
+				<div class="course-button">
+					<a href="#" class="btn btn-primary btn-block">TAKE THIS COURSE</a>
+				</div>
+			</div>
+			<div id="course-content" class="col-md-8">
+				<div class="course-table">
+					<h4>Faculties</h4>
+					<table class="table">
+						<thead>
+							<tr>
+								<th>Name</th>
+								<th>Designation</th>
+								<th>Email</th>
+								<th>Phone</th>
+								<th>Qualification</th>
+							</tr>
+						</thead>
+						<tbody>
+							<p>@TempData["msg"]</p>
+
+							@foreach (var faculty in Model)
+							{
+								<tr>
+									<td>@faculty.FacultyName</td>
+									<td>@faculty.Designation</td>
+									<td>@faculty.Email</td>
+									<td>@faculty.Phone</td>
+									<td>@faculty.Qualification</td>
+								</tr>
+							}
+						</tbody>
+					</table>
+				</div>
+
+			</div>
+		</div>
+		<hr class="invis">
+				
+	</div>
+</section>

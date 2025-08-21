@@ -264,8 +264,8 @@
                                 <i data-feather="briefcase"></i><span>Manage Departments</span>
                             </a>
                             <ul class="dropdown-menu">
-                                <li><a asp-controller="admin" asp-action="AddDepartment" class="nav-link">Add Departments</a></li>
-                                <li><a asp-controller="admin" asp-action="Dapartment" class="nav-link">All Departments</a></li>
+                                <li><a asp-controller="Admin" asp-action="AddDepartment" class="nav-link">Add Departments</a></li>
+                                <li><a asp-controller="Admin" asp-action="Dapartment" class="nav-link">All Departments</a></li>
                             </ul>
                         </li>
                         <li class="dropdown">
@@ -273,8 +273,8 @@
                                 <i data-feather="briefcase"></i><span>Manage Courses</span>
                             </a>
                             <ul class="dropdown-menu">
-                                <li><a class="nav-link">Add Courses</a></li>
-                                <li><a class="nav-link">All Courses</a></li>
+                                <li><a asp-controller ="Admin" asp-action="AddCourse" class="nav-link">Add Courses</a></li>
+                                <li><a asp-controller="Admin" asp-action="Course" class="nav-link">All Courses</a></li>
                             </ul>
                         </li>
                        
@@ -283,8 +283,8 @@
                                 <i data-feather="briefcase"></i><span>Manage Faculties</span>
                             </a>
                             <ul class="dropdown-menu">
-                                <li><a class="nav-link">Add Faculty</a></li>
-                                <li><a class="nav-link">All Faculty</a></li>
+                                <li><a asp-controller="Admin" asp-action="AddFaculty" class="nav-link">Add Faculty</a></li>
+                                <li><a asp-controller="Admin" asp-action="Faculty" class="nav-link">All Faculty</a></li>
                             </ul>
                         </li>
                         <li class="dropdown">
@@ -292,8 +292,8 @@
                                 <i data-feather="briefcase"></i><span>Manage Facilities</span>
                             </a>
                             <ul class="dropdown-menu">
-                                <li><a class="nav-link">Add Facility</a></li>
-                                <li><a class="nav-link">All Facility</a></li>
+                                <li><a asp-controller="Admin" asp-action="AddFacility" class="nav-link">Add Facility</a></li>
+                                <li><a asp-controller="Admin" asp-action="Facility" class="nav-link">All Facility</a></li>
                             </ul>
                         </li>
                         <li><a class="nav-link"><i data-feather="monitor"></i><span>Manage Admissions</span></a></li>
@@ -330,6 +330,6 @@
     <script src="~/adminassets/js/custom.js"></script>
 </body>
 
-
+@RenderSection("Scripts", required: false)
 <!-- index.html  21 Nov 2019 03:47:04 GMT -->
 </html>

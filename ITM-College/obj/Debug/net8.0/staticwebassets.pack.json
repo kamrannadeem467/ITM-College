@@ -3261,6 +3261,490 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\wwwroot\\frontend\\A.fonts,,_font-awesome-4.3.0,,_css,,_font-awesome.min.css+css,,_bootstrap.css+css,,_animate.css,Mcc.kSNwpaaMDX.css.pagespeed.cf.w2G3xGgFf0.css",
+      "PackagePath": "staticwebassets\\frontend\\A.fonts,,_font-awesome-4.3.0,,_css,,_font-awesome.min.css+css,,_bootstrap.css+css,,_animate.css,Mcc.kSNwpaaMDX.css.pagespeed.cf.w2G3xGgFf0.css"
+    },
+    {
+      "Id": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\wwwroot\\frontend\\A.style.css+css,,_custom.css,Mcc.HvWh1qoob-.css.pagespeed.cf.pWH5huNcWh.css",
+      "PackagePath": "staticwebassets\\frontend\\A.style.css+css,,_custom.css,Mcc.HvWh1qoob-.css.pagespeed.cf.pWH5huNcWh.css"
+    },
+    {
+      "Id": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\wwwroot\\frontend\\css\\A.carousel.css+bbpress.css,Mcc.aXsJ7_Y__m.css.pagespeed.cf.ERce4VkS3l.css",
+      "PackagePath": "staticwebassets\\frontend\\css\\A.carousel.css+bbpress.css,Mcc.aXsJ7_Y__m.css.pagespeed.cf.ERce4VkS3l.css"
+    },
+    {
+      "Id": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\wwwroot\\frontend\\css\\A.carousel.css+bxslider.css,Mcc.jgeTii-u52.css.pagespeed.cf.STKSIMl7GF.css",
+      "PackagePath": "staticwebassets\\frontend\\css\\A.carousel.css+bxslider.css,Mcc.jgeTii-u52.css.pagespeed.cf.STKSIMl7GF.css"
+    },
+    {
+      "Id": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\wwwroot\\frontend\\css\\A.carousel.css.pagespeed.cf.VktteGiLwl.css",
+      "PackagePath": "staticwebassets\\frontend\\css\\A.carousel.css.pagespeed.cf.VktteGiLwl.css"
+    },
+    {
+      "Id": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\wwwroot\\frontend\\css\\A.menu.css.pagespeed.cf.0_hLwXzYkZ.css",
+      "PackagePath": "staticwebassets\\frontend\\css\\A.menu.css.pagespeed.cf.0_hLwXzYkZ.css"
+    },
+    {
+      "Id": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\wwwroot\\frontend\\css\\carousel.css+bbpress.css.pagespeed.cc.aXsJ7_Y__m.css",
+      "PackagePath": "staticwebassets\\frontend\\css\\carousel.css+bbpress.css.pagespeed.cc.aXsJ7_Y__m.css"
+    },
+    {
+      "Id": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\wwwroot\\frontend\\css\\owl.video.play.html",
+      "PackagePath": "staticwebassets\\frontend\\css\\owl.video.play.html"
+    },
+    {
+      "Id": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\wwwroot\\frontend\\fonts\\font-awesome-4.3.0\\fonts\\fontawesome-webfontd41d.eot",
+      "PackagePath": "staticwebassets\\frontend\\fonts\\font-awesome-4.3.0\\fonts\\fontawesome-webfontd41d.eot"
+    },
+    {
+      "Id": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\wwwroot\\frontend\\fonts\\font-awesome-4.3.0\\fonts\\fontawesome-webfonte0a5.eot",
+      "PackagePath": "staticwebassets\\frontend\\fonts\\font-awesome-4.3.0\\fonts\\fontawesome-webfonte0a5.eot"
+    },
+    {
+      "Id": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\wwwroot\\frontend\\fonts\\font-awesome-4.3.0\\fonts\\fontawesome-webfonte0a5.html",
+      "PackagePath": "staticwebassets\\frontend\\fonts\\font-awesome-4.3.0\\fonts\\fontawesome-webfonte0a5.html"
+    },
+    {
+      "Id": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\wwwroot\\frontend\\fonts\\font-awesome-4.3.0\\fonts\\fontawesome-webfonte0a5.svg",
+      "PackagePath": "staticwebassets\\frontend\\fonts\\font-awesome-4.3.0\\fonts\\fontawesome-webfonte0a5.svg"
+    },
+    {
+      "Id": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\wwwroot\\frontend\\fonts\\font-awesome-4.3.0\\fonts\\fontawesome-webfonte0a5.ttf",
+      "PackagePath": "staticwebassets\\frontend\\fonts\\font-awesome-4.3.0\\fonts\\fontawesome-webfonte0a5.ttf"
+    },
+    {
+      "Id": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\wwwroot\\frontend\\fonts\\font-awesome-4.3.0\\fonts\\fontawesome-webfonte0a5.woff",
+      "PackagePath": "staticwebassets\\frontend\\fonts\\font-awesome-4.3.0\\fonts\\fontawesome-webfonte0a5.woff"
+    },
+    {
+      "Id": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\wwwroot\\frontend\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\frontend\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\wwwroot\\frontend\\fonts\\glyphicons-halflings-regular.html",
+      "PackagePath": "staticwebassets\\frontend\\fonts\\glyphicons-halflings-regular.html"
+    },
+    {
+      "Id": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\wwwroot\\frontend\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\frontend\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\wwwroot\\frontend\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\frontend\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\wwwroot\\frontend\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\frontend\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\wwwroot\\frontend\\fonts\\glyphicons-halflings-regulard41d.eot",
+      "PackagePath": "staticwebassets\\frontend\\fonts\\glyphicons-halflings-regulard41d.eot"
+    },
+    {
+      "Id": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\wwwroot\\frontend\\images\\apple-touch-icon-57x57.png",
+      "PackagePath": "staticwebassets\\frontend\\images\\apple-touch-icon-57x57.png"
+    },
+    {
+      "Id": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\wwwroot\\frontend\\images\\apple-touch-icon.png",
+      "PackagePath": "staticwebassets\\frontend\\images\\apple-touch-icon.png"
+    },
+    {
+      "Id": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\wwwroot\\frontend\\images\\dummy.png",
+      "PackagePath": "staticwebassets\\frontend\\images\\dummy.png"
+    },
+    {
+      "Id": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\wwwroot\\frontend\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\frontend\\images\\favicon.ico"
+    },
+    {
+      "Id": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\wwwroot\\frontend\\images\\loading.gif",
+      "PackagePath": "staticwebassets\\frontend\\images\\loading.gif"
+    },
+    {
+      "Id": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\wwwroot\\frontend\\images\\site.gif",
+      "PackagePath": "staticwebassets\\frontend\\images\\site.gif"
+    },
+    {
+      "Id": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\wwwroot\\frontend\\images\\xapple-touch-icon-114x114.png.pagespeed.ic.Fi5O5s2tzL.png",
+      "PackagePath": "staticwebassets\\frontend\\images\\xapple-touch-icon-114x114.png.pagespeed.ic.Fi5O5s2tzL.png"
+    },
+    {
+      "Id": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\wwwroot\\frontend\\images\\xapple-touch-icon-120x120.png.pagespeed.ic.uPQH0sygdV.png",
+      "PackagePath": "staticwebassets\\frontend\\images\\xapple-touch-icon-120x120.png.pagespeed.ic.uPQH0sygdV.png"
+    },
+    {
+      "Id": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\wwwroot\\frontend\\images\\xapple-touch-icon-144x144.png.pagespeed.ic.yZ9-_sm5OF.png",
+      "PackagePath": "staticwebassets\\frontend\\images\\xapple-touch-icon-144x144.png.pagespeed.ic.yZ9-_sm5OF.png"
+    },
+    {
+      "Id": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\wwwroot\\frontend\\images\\xapple-touch-icon-152x152.png.pagespeed.ic.gThaVrKtXF.png",
+      "PackagePath": "staticwebassets\\frontend\\images\\xapple-touch-icon-152x152.png.pagespeed.ic.gThaVrKtXF.png"
+    },
+    {
+      "Id": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\wwwroot\\frontend\\images\\xapple-touch-icon-180x180.png.pagespeed.ic.Q8Pmsj5fQM.png",
+      "PackagePath": "staticwebassets\\frontend\\images\\xapple-touch-icon-180x180.png.pagespeed.ic.Q8Pmsj5fQM.png"
+    },
+    {
+      "Id": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\wwwroot\\frontend\\images\\xapple-touch-icon-72x72.png.pagespeed.ic.lf5d8kCpOf.png",
+      "PackagePath": "staticwebassets\\frontend\\images\\xapple-touch-icon-72x72.png.pagespeed.ic.lf5d8kCpOf.png"
+    },
+    {
+      "Id": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\wwwroot\\frontend\\images\\xapple-touch-icon-76x76.png.pagespeed.ic.ATZZpSeito.png",
+      "PackagePath": "staticwebassets\\frontend\\images\\xapple-touch-icon-76x76.png.pagespeed.ic.ATZZpSeito.png"
+    },
+    {
+      "Id": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\wwwroot\\frontend\\images\\xcredit.jpg.pagespeed.ic.lGluDMrwzI.jpg",
+      "PackagePath": "staticwebassets\\frontend\\images\\xcredit.jpg.pagespeed.ic.lGluDMrwzI.jpg"
+    },
+    {
+      "Id": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\wwwroot\\frontend\\images\\xdummy.png.pagespeed.ic.lRMfmktUso.png",
+      "PackagePath": "staticwebassets\\frontend\\images\\xdummy.png.pagespeed.ic.lRMfmktUso.png"
+    },
+    {
+      "Id": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\wwwroot\\frontend\\images\\xlogin-logo.png.pagespeed.ic.rk5LaeLYSz.png",
+      "PackagePath": "staticwebassets\\frontend\\images\\xlogin-logo.png.pagespeed.ic.rk5LaeLYSz.png"
+    },
+    {
+      "Id": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\wwwroot\\frontend\\images\\xlogo.png.pagespeed.ic.vap6Ukaf0i.png",
+      "PackagePath": "staticwebassets\\frontend\\images\\xlogo.png.pagespeed.ic.vap6Ukaf0i.png"
+    },
+    {
+      "Id": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\wwwroot\\frontend\\images\\xothers.png.pagespeed.ic.BLyi2PaMRC.png",
+      "PackagePath": "staticwebassets\\frontend\\images\\xothers.png.pagespeed.ic.BLyi2PaMRC.png"
+    },
+    {
+      "Id": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\wwwroot\\frontend\\images\\xothers1.png.pagespeed.ic.RtZTA6aSRP.png",
+      "PackagePath": "staticwebassets\\frontend\\images\\xothers1.png.pagespeed.ic.RtZTA6aSRP.png"
+    },
+    {
+      "Id": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\wwwroot\\frontend\\images\\xsidelogo.png.pagespeed.ic.wjjT3_TtPG.png",
+      "PackagePath": "staticwebassets\\frontend\\images\\xsidelogo.png.pagespeed.ic.wjjT3_TtPG.png"
+    },
+    {
+      "Id": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\wwwroot\\frontend\\js\\bootstrap.min.js+retina.js+wow.js.pagespeed.jc.pMrMbVAe_E.js",
+      "PackagePath": "staticwebassets\\frontend\\js\\bootstrap.min.js+retina.js+wow.js.pagespeed.jc.pMrMbVAe_E.js"
+    },
+    {
+      "Id": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\wwwroot\\frontend\\js\\bxslider.js+custom.js.pagespeed.jc.QCoQfo32dZ.js",
+      "PackagePath": "staticwebassets\\frontend\\js\\bxslider.js+custom.js.pagespeed.jc.QCoQfo32dZ.js"
+    },
+    {
+      "Id": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\wwwroot\\frontend\\js\\bxslider.js.pagespeed.jm.X-sF7YFq4Y.js",
+      "PackagePath": "staticwebassets\\frontend\\js\\bxslider.js.pagespeed.jm.X-sF7YFq4Y.js"
+    },
+    {
+      "Id": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\wwwroot\\frontend\\js\\carousel.js+custom.js+contact.js+map.js.pagespeed.jc.PhbsLlMzIs.js",
+      "PackagePath": "staticwebassets\\frontend\\js\\carousel.js+custom.js+contact.js+map.js.pagespeed.jc.PhbsLlMzIs.js"
+    },
+    {
+      "Id": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\wwwroot\\frontend\\js\\carousel.js+custom.js+jquery.fitvids.js.pagespeed.jc.ghpaVHFgk4.js",
+      "PackagePath": "staticwebassets\\frontend\\js\\carousel.js+custom.js+jquery.fitvids.js.pagespeed.jc.ghpaVHFgk4.js"
+    },
+    {
+      "Id": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\wwwroot\\frontend\\js\\carousel.js+custom.js.pagespeed.jc.nVhk-UfDsv.js",
+      "PackagePath": "staticwebassets\\frontend\\js\\carousel.js+custom.js.pagespeed.jc.nVhk-UfDsv.js"
+    },
+    {
+      "Id": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\wwwroot\\frontend\\js\\carousel.js+parallax.min.js+custom.js.pagespeed.jc.lVSvRd9-tY.js",
+      "PackagePath": "staticwebassets\\frontend\\js\\carousel.js+parallax.min.js+custom.js.pagespeed.jc.lVSvRd9-tY.js"
+    },
+    {
+      "Id": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\wwwroot\\frontend\\js\\carousel.js.pagespeed.jm.Q7bTgZe8yn.js",
+      "PackagePath": "staticwebassets\\frontend\\js\\carousel.js.pagespeed.jm.Q7bTgZe8yn.js"
+    },
+    {
+      "Id": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\wwwroot\\frontend\\js\\contact.js+map.js.pagespeed.jc.F-5JFqN28v.js",
+      "PackagePath": "staticwebassets\\frontend\\js\\contact.js+map.js.pagespeed.jc.F-5JFqN28v.js"
+    },
+    {
+      "Id": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\wwwroot\\frontend\\js\\isotope.js.pagespeed.jm.3o8H2mhlCK.js",
+      "PackagePath": "staticwebassets\\frontend\\js\\isotope.js.pagespeed.jm.3o8H2mhlCK.js"
+    },
+    {
+      "Id": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\wwwroot\\frontend\\js\\jquery.min.js.pagespeed.jm.iDyG3vc4gw.js",
+      "PackagePath": "staticwebassets\\frontend\\js\\jquery.min.js.pagespeed.jm.iDyG3vc4gw.js"
+    },
+    {
+      "Id": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\wwwroot\\frontend\\rs-plugin\\assets\\xgridtile.png.pagespeed.ic.jHoNokq0WL.png",
+      "PackagePath": "staticwebassets\\frontend\\rs-plugin\\assets\\xgridtile.png.pagespeed.ic.jHoNokq0WL.png"
+    },
+    {
+      "Id": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\wwwroot\\frontend\\rs-plugin\\css\\A.settings.css.pagespeed.cf.xeOyGChsgq.css",
+      "PackagePath": "staticwebassets\\frontend\\rs-plugin\\css\\A.settings.css.pagespeed.cf.xeOyGChsgq.css"
+    },
+    {
+      "Id": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\wwwroot\\frontend\\rs-plugin\\font\\revicons90c6.eot",
+      "PackagePath": "staticwebassets\\frontend\\rs-plugin\\font\\revicons90c6.eot"
+    },
+    {
+      "Id": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\wwwroot\\frontend\\rs-plugin\\font\\revicons90c6.svg",
+      "PackagePath": "staticwebassets\\frontend\\rs-plugin\\font\\revicons90c6.svg"
+    },
+    {
+      "Id": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\wwwroot\\frontend\\rs-plugin\\font\\revicons90c6.ttf",
+      "PackagePath": "staticwebassets\\frontend\\rs-plugin\\font\\revicons90c6.ttf"
+    },
+    {
+      "Id": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\wwwroot\\frontend\\rs-plugin\\font\\revicons90c6.woff",
+      "PackagePath": "staticwebassets\\frontend\\rs-plugin\\font\\revicons90c6.woff"
+    },
+    {
+      "Id": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\wwwroot\\frontend\\rs-plugin\\images\\gradient\\xg30.png.pagespeed.ic.nN8k5eNwVx.png",
+      "PackagePath": "staticwebassets\\frontend\\rs-plugin\\images\\gradient\\xg30.png.pagespeed.ic.nN8k5eNwVx.png"
+    },
+    {
+      "Id": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\wwwroot\\frontend\\rs-plugin\\js\\jquery.themepunch.revolution.min.js",
+      "PackagePath": "staticwebassets\\frontend\\rs-plugin\\js\\jquery.themepunch.revolution.min.js"
+    },
+    {
+      "Id": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\wwwroot\\frontend\\rs-plugin\\js\\jquery.themepunch.tools.min.js.pagespeed.jm.0PLSBOOLZa.js",
+      "PackagePath": "staticwebassets\\frontend\\rs-plugin\\js\\jquery.themepunch.tools.min.js.pagespeed.jm.0PLSBOOLZa.js"
+    },
+    {
+      "Id": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\wwwroot\\frontend\\upload\\video.mp4",
+      "PackagePath": "staticwebassets\\frontend\\upload\\video.mp4"
+    },
+    {
+      "Id": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\wwwroot\\frontend\\upload\\video.ogv",
+      "PackagePath": "staticwebassets\\frontend\\upload\\video.ogv"
+    },
+    {
+      "Id": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\wwwroot\\frontend\\upload\\video.webm",
+      "PackagePath": "staticwebassets\\frontend\\upload\\video.webm"
+    },
+    {
+      "Id": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\wwwroot\\frontend\\upload\\xabout_01.jpg.pagespeed.ic.kjNqMAPXcG.jpg",
+      "PackagePath": "staticwebassets\\frontend\\upload\\xabout_01.jpg.pagespeed.ic.kjNqMAPXcG.jpg"
+    },
+    {
+      "Id": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\wwwroot\\frontend\\upload\\xabout_02.jpg.pagespeed.ic.D36tpcmMNB.jpg",
+      "PackagePath": "staticwebassets\\frontend\\upload\\xabout_02.jpg.pagespeed.ic.D36tpcmMNB.jpg"
+    },
+    {
+      "Id": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\wwwroot\\frontend\\upload\\xbadge_01.jpg.pagespeed.ic.7sR81VjNIg.jpg",
+      "PackagePath": "staticwebassets\\frontend\\upload\\xbadge_01.jpg.pagespeed.ic.7sR81VjNIg.jpg"
+    },
+    {
+      "Id": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\wwwroot\\frontend\\upload\\xbadge_02.jpg.pagespeed.ic.tGcqu0q68d.jpg",
+      "PackagePath": "staticwebassets\\frontend\\upload\\xbadge_02.jpg.pagespeed.ic.tGcqu0q68d.jpg"
+    },
+    {
+      "Id": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\wwwroot\\frontend\\upload\\xbadge_03.jpg.pagespeed.ic.7i4Y7ZiVpj.jpg",
+      "PackagePath": "staticwebassets\\frontend\\upload\\xbadge_03.jpg.pagespeed.ic.7i4Y7ZiVpj.jpg"
+    },
+    {
+      "Id": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\wwwroot\\frontend\\upload\\xbadge_04.jpg.pagespeed.ic.K24ADnID_t.jpg",
+      "PackagePath": "staticwebassets\\frontend\\upload\\xbadge_04.jpg.pagespeed.ic.K24ADnID_t.jpg"
+    },
+    {
+      "Id": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\wwwroot\\frontend\\upload\\xbadge_05.jpg.pagespeed.ic.iD5n0TOxNG.jpg",
+      "PackagePath": "staticwebassets\\frontend\\upload\\xbadge_05.jpg.pagespeed.ic.iD5n0TOxNG.jpg"
+    },
+    {
+      "Id": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\wwwroot\\frontend\\upload\\xbadge_06.jpg.pagespeed.ic.GfHOK9UUgx.jpg",
+      "PackagePath": "staticwebassets\\frontend\\upload\\xbadge_06.jpg.pagespeed.ic.GfHOK9UUgx.jpg"
+    },
+    {
+      "Id": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\wwwroot\\frontend\\upload\\xblog_01.jpg.pagespeed.ic.2jVY1j1OMe.jpg",
+      "PackagePath": "staticwebassets\\frontend\\upload\\xblog_01.jpg.pagespeed.ic.2jVY1j1OMe.jpg"
+    },
+    {
+      "Id": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\wwwroot\\frontend\\upload\\xblog_02.jpg.pagespeed.ic.VhhhBexs2E.jpg",
+      "PackagePath": "staticwebassets\\frontend\\upload\\xblog_02.jpg.pagespeed.ic.VhhhBexs2E.jpg"
+    },
+    {
+      "Id": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\wwwroot\\frontend\\upload\\xblog_03.jpg.pagespeed.ic.ZGQLz9XvWC.jpg",
+      "PackagePath": "staticwebassets\\frontend\\upload\\xblog_03.jpg.pagespeed.ic.ZGQLz9XvWC.jpg"
+    },
+    {
+      "Id": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\wwwroot\\frontend\\upload\\xclient_01.png.pagespeed.ic.m5NnlxSzhM.png",
+      "PackagePath": "staticwebassets\\frontend\\upload\\xclient_01.png.pagespeed.ic.m5NnlxSzhM.png"
+    },
+    {
+      "Id": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\wwwroot\\frontend\\upload\\xclient_02.png.pagespeed.ic.BsH9V4BqCi.png",
+      "PackagePath": "staticwebassets\\frontend\\upload\\xclient_02.png.pagespeed.ic.BsH9V4BqCi.png"
+    },
+    {
+      "Id": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\wwwroot\\frontend\\upload\\xclient_03.png.pagespeed.ic.mxzQrepbL_.png",
+      "PackagePath": "staticwebassets\\frontend\\upload\\xclient_03.png.pagespeed.ic.mxzQrepbL_.png"
+    },
+    {
+      "Id": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\wwwroot\\frontend\\upload\\xclient_04.png.pagespeed.ic.Fx2ObIy0Eb.png",
+      "PackagePath": "staticwebassets\\frontend\\upload\\xclient_04.png.pagespeed.ic.Fx2ObIy0Eb.png"
+    },
+    {
+      "Id": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\wwwroot\\frontend\\upload\\xclient_05.png.pagespeed.ic.GBNy2ra72B.png",
+      "PackagePath": "staticwebassets\\frontend\\upload\\xclient_05.png.pagespeed.ic.GBNy2ra72B.png"
+    },
+    {
+      "Id": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\wwwroot\\frontend\\upload\\xclient_06.png.pagespeed.ic.a_uqmnbFy0.png",
+      "PackagePath": "staticwebassets\\frontend\\upload\\xclient_06.png.pagespeed.ic.a_uqmnbFy0.png"
+    },
+    {
+      "Id": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\wwwroot\\frontend\\upload\\xcourse_01.png.pagespeed.ic.XTOvCuUmZu.png",
+      "PackagePath": "staticwebassets\\frontend\\upload\\xcourse_01.png.pagespeed.ic.XTOvCuUmZu.png"
+    },
+    {
+      "Id": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\wwwroot\\frontend\\upload\\xcourse_02.png.pagespeed.ic.PL7Wu2UcSB.png",
+      "PackagePath": "staticwebassets\\frontend\\upload\\xcourse_02.png.pagespeed.ic.PL7Wu2UcSB.png"
+    },
+    {
+      "Id": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\wwwroot\\frontend\\upload\\xcourse_03.png.pagespeed.ic.8e1MyY5M7i.png",
+      "PackagePath": "staticwebassets\\frontend\\upload\\xcourse_03.png.pagespeed.ic.8e1MyY5M7i.png"
+    },
+    {
+      "Id": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\wwwroot\\frontend\\upload\\xcourse_04.png.pagespeed.ic.2rIKmUwjA7.png",
+      "PackagePath": "staticwebassets\\frontend\\upload\\xcourse_04.png.pagespeed.ic.2rIKmUwjA7.png"
+    },
+    {
+      "Id": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\wwwroot\\frontend\\upload\\xcourse_05.png.pagespeed.ic.mrKpzOf8LX.png",
+      "PackagePath": "staticwebassets\\frontend\\upload\\xcourse_05.png.pagespeed.ic.mrKpzOf8LX.png"
+    },
+    {
+      "Id": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\wwwroot\\frontend\\upload\\xcourse_06.png.pagespeed.ic.2iR1Lq1HrU.png",
+      "PackagePath": "staticwebassets\\frontend\\upload\\xcourse_06.png.pagespeed.ic.2iR1Lq1HrU.png"
+    },
+    {
+      "Id": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\wwwroot\\frontend\\upload\\xcourse_07.png.pagespeed.ic.KNvblD_Vd1.png",
+      "PackagePath": "staticwebassets\\frontend\\upload\\xcourse_07.png.pagespeed.ic.KNvblD_Vd1.png"
+    },
+    {
+      "Id": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\wwwroot\\frontend\\upload\\xcourse_08.png.pagespeed.ic.uuUPd8pkHT.png",
+      "PackagePath": "staticwebassets\\frontend\\upload\\xcourse_08.png.pagespeed.ic.uuUPd8pkHT.png"
+    },
+    {
+      "Id": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\wwwroot\\frontend\\upload\\xcourse_09.png.pagespeed.ic.onaUPvr7s-.png",
+      "PackagePath": "staticwebassets\\frontend\\upload\\xcourse_09.png.pagespeed.ic.onaUPvr7s-.png"
+    },
+    {
+      "Id": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\wwwroot\\frontend\\upload\\xcourse_10.png.pagespeed.ic.Vk_tFeUOXa.png",
+      "PackagePath": "staticwebassets\\frontend\\upload\\xcourse_10.png.pagespeed.ic.Vk_tFeUOXa.png"
+    },
+    {
+      "Id": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\wwwroot\\frontend\\upload\\xcourse_11.png.pagespeed.ic._TBnV-TA7x.png",
+      "PackagePath": "staticwebassets\\frontend\\upload\\xcourse_11.png.pagespeed.ic._TBnV-TA7x.png"
+    },
+    {
+      "Id": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\wwwroot\\frontend\\upload\\xcourse_12.png.pagespeed.ic.25NTcM097E.png",
+      "PackagePath": "staticwebassets\\frontend\\upload\\xcourse_12.png.pagespeed.ic.25NTcM097E.png"
+    },
+    {
+      "Id": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\wwwroot\\frontend\\upload\\xdevice_01.png.pagespeed.ic.v31CZTVqg0.png",
+      "PackagePath": "staticwebassets\\frontend\\upload\\xdevice_01.png.pagespeed.ic.v31CZTVqg0.png"
+    },
+    {
+      "Id": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\wwwroot\\frontend\\upload\\xdevice_02.png.pagespeed.ic.w5TutKGgkN.png",
+      "PackagePath": "staticwebassets\\frontend\\upload\\xdevice_02.png.pagespeed.ic.w5TutKGgkN.png"
+    },
+    {
+      "Id": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\wwwroot\\frontend\\upload\\xparallax_01.jpg.pagespeed.ic.JPVsQrTu6o.jpg",
+      "PackagePath": "staticwebassets\\frontend\\upload\\xparallax_01.jpg.pagespeed.ic.JPVsQrTu6o.jpg"
+    },
+    {
+      "Id": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\wwwroot\\frontend\\upload\\xparallax_02.jpg.pagespeed.ic.Sx1_qXOliB.jpg",
+      "PackagePath": "staticwebassets\\frontend\\upload\\xparallax_02.jpg.pagespeed.ic.Sx1_qXOliB.jpg"
+    },
+    {
+      "Id": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\wwwroot\\frontend\\upload\\xservice_01.png.pagespeed.ic.2iuJZT3CaV.png",
+      "PackagePath": "staticwebassets\\frontend\\upload\\xservice_01.png.pagespeed.ic.2iuJZT3CaV.png"
+    },
+    {
+      "Id": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\wwwroot\\frontend\\upload\\xservice_02.png.pagespeed.ic.c6RThoxSWC.png",
+      "PackagePath": "staticwebassets\\frontend\\upload\\xservice_02.png.pagespeed.ic.c6RThoxSWC.png"
+    },
+    {
+      "Id": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\wwwroot\\frontend\\upload\\xservice_03.png.pagespeed.ic.E_Ew4wn4ZP.png",
+      "PackagePath": "staticwebassets\\frontend\\upload\\xservice_03.png.pagespeed.ic.E_Ew4wn4ZP.png"
+    },
+    {
+      "Id": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\wwwroot\\frontend\\upload\\xservice_04.png.pagespeed.ic.NGi9jRXTXk.png",
+      "PackagePath": "staticwebassets\\frontend\\upload\\xservice_04.png.pagespeed.ic.NGi9jRXTXk.png"
+    },
+    {
+      "Id": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\wwwroot\\frontend\\upload\\xservice_05.png.pagespeed.ic.2iuJZT3CaV.png",
+      "PackagePath": "staticwebassets\\frontend\\upload\\xservice_05.png.pagespeed.ic.2iuJZT3CaV.png"
+    },
+    {
+      "Id": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\wwwroot\\frontend\\upload\\xservice_06.png.pagespeed.ic.o2Uniwq-y5.png",
+      "PackagePath": "staticwebassets\\frontend\\upload\\xservice_06.png.pagespeed.ic.o2Uniwq-y5.png"
+    },
+    {
+      "Id": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\wwwroot\\frontend\\upload\\xservice_07.png.pagespeed.ic.H-fRTeeP8u.png",
+      "PackagePath": "staticwebassets\\frontend\\upload\\xservice_07.png.pagespeed.ic.H-fRTeeP8u.png"
+    },
+    {
+      "Id": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\wwwroot\\frontend\\upload\\xservice_08.png.pagespeed.ic.76ek5JLaEY.png",
+      "PackagePath": "staticwebassets\\frontend\\upload\\xservice_08.png.pagespeed.ic.76ek5JLaEY.png"
+    },
+    {
+      "Id": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\wwwroot\\frontend\\upload\\xservice_09.png.pagespeed.ic.FJcG938KC-.png",
+      "PackagePath": "staticwebassets\\frontend\\upload\\xservice_09.png.pagespeed.ic.FJcG938KC-.png"
+    },
+    {
+      "Id": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\wwwroot\\frontend\\upload\\xsingle_shop.jpg.pagespeed.ic.yMJhawG7Q-.jpg",
+      "PackagePath": "staticwebassets\\frontend\\upload\\xsingle_shop.jpg.pagespeed.ic.yMJhawG7Q-.jpg"
+    },
+    {
+      "Id": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\wwwroot\\frontend\\upload\\xsingle_shop_01.jpg.pagespeed.ic.L1-A5EffmO.jpg",
+      "PackagePath": "staticwebassets\\frontend\\upload\\xsingle_shop_01.jpg.pagespeed.ic.L1-A5EffmO.jpg"
+    },
+    {
+      "Id": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\wwwroot\\frontend\\upload\\xsingle_shop_02.jpg.pagespeed.ic.Q5t1exZyYW.jpg",
+      "PackagePath": "staticwebassets\\frontend\\upload\\xsingle_shop_02.jpg.pagespeed.ic.Q5t1exZyYW.jpg"
+    },
+    {
+      "Id": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\wwwroot\\frontend\\upload\\xslider_new_01.jpg.pagespeed.ic.RgCY2ieSzC.jpg",
+      "PackagePath": "staticwebassets\\frontend\\upload\\xslider_new_01.jpg.pagespeed.ic.RgCY2ieSzC.jpg"
+    },
+    {
+      "Id": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\wwwroot\\frontend\\upload\\xslider_new_02.jpg.pagespeed.ic.QHr4wT-HDB.jpg",
+      "PackagePath": "staticwebassets\\frontend\\upload\\xslider_new_02.jpg.pagespeed.ic.QHr4wT-HDB.jpg"
+    },
+    {
+      "Id": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\wwwroot\\frontend\\upload\\xslider_new_03.jpg.pagespeed.ic.0dDeZb1yS7.jpg",
+      "PackagePath": "staticwebassets\\frontend\\upload\\xslider_new_03.jpg.pagespeed.ic.0dDeZb1yS7.jpg"
+    },
+    {
+      "Id": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\wwwroot\\frontend\\upload\\xstudent_01.png.pagespeed.ic.756JwMcqdq.png",
+      "PackagePath": "staticwebassets\\frontend\\upload\\xstudent_01.png.pagespeed.ic.756JwMcqdq.png"
+    },
+    {
+      "Id": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\wwwroot\\frontend\\upload\\xstudent_02.png.pagespeed.ic.y-PM-y4pVj.png",
+      "PackagePath": "staticwebassets\\frontend\\upload\\xstudent_02.png.pagespeed.ic.y-PM-y4pVj.png"
+    },
+    {
+      "Id": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\wwwroot\\frontend\\upload\\xstudent_03.png.pagespeed.ic.uCQY3WNMCJ.png",
+      "PackagePath": "staticwebassets\\frontend\\upload\\xstudent_03.png.pagespeed.ic.uCQY3WNMCJ.png"
+    },
+    {
+      "Id": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\wwwroot\\frontend\\upload\\xstudent_04.png.pagespeed.ic.e7uTdONUv0.png",
+      "PackagePath": "staticwebassets\\frontend\\upload\\xstudent_04.png.pagespeed.ic.e7uTdONUv0.png"
+    },
+    {
+      "Id": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\wwwroot\\frontend\\upload\\xstudent_05.png.pagespeed.ic.moTx3bMNF3.png",
+      "PackagePath": "staticwebassets\\frontend\\upload\\xstudent_05.png.pagespeed.ic.moTx3bMNF3.png"
+    },
+    {
+      "Id": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\wwwroot\\frontend\\upload\\xstudent_06.png.pagespeed.ic.M4STWuf1XS.png",
+      "PackagePath": "staticwebassets\\frontend\\upload\\xstudent_06.png.pagespeed.ic.M4STWuf1XS.png"
+    },
+    {
+      "Id": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\wwwroot\\frontend\\upload\\xteam_01.jpg.pagespeed.ic.uNKwi9Xmie.jpg",
+      "PackagePath": "staticwebassets\\frontend\\upload\\xteam_01.jpg.pagespeed.ic.uNKwi9Xmie.jpg"
+    },
+    {
+      "Id": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\wwwroot\\frontend\\upload\\xteam_02.jpg.pagespeed.ic.Foo3PN64df.jpg",
+      "PackagePath": "staticwebassets\\frontend\\upload\\xteam_02.jpg.pagespeed.ic.Foo3PN64df.jpg"
+    },
+    {
+      "Id": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\wwwroot\\frontend\\upload\\xteam_03.jpg.pagespeed.ic.Mw22RnI1eL.jpg",
+      "PackagePath": "staticwebassets\\frontend\\upload\\xteam_03.jpg.pagespeed.ic.Mw22RnI1eL.jpg"
+    },
+    {
+      "Id": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\wwwroot\\frontend\\upload\\xteam_04.jpg.pagespeed.ic.equz9NTtM1.jpg",
+      "PackagePath": "staticwebassets\\frontend\\upload\\xteam_04.jpg.pagespeed.ic.equz9NTtM1.jpg"
+    },
+    {
       "Id": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

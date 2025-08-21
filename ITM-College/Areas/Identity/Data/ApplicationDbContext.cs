@@ -18,12 +18,17 @@ public class ApplicationDbContext : IdentityDbContext<ITM_CollegeAdmin>
 
     }
     public DbSet<Department> Departments { get; set; }
+    public DbSet<Course> Courses { get; set; }
+    public DbSet<Faculty> Faculties { get; set; }
+    public DbSet<Facility> Facilities { get; set; }
 
     protected override void OnModelCreating(ModelBuilder builder)
     {
         base.OnModelCreating(builder);
         builder.ApplyConfiguration(new ApplicationUserIdentityConfiguration());
     }
+
+public DbSet<ITM_College.Areas.Identity.Data.Facility> Facility { get; set; } = default!;
 }
 
 internal class ApplicationUserIdentityConfiguration : IEntityTypeConfiguration<ITM_CollegeAdmin>
