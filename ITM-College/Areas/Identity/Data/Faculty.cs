@@ -15,6 +15,8 @@ namespace ITM_College.Areas.Identity.Data
         [StringLength(100)]
         public string Designation { get; set; }  // e.g., Professor, Lecturer
 
+        public string Description { get; set; }
+
         [EmailAddress]
         public string? Email { get; set; }
 
@@ -23,6 +25,14 @@ namespace ITM_College.Areas.Identity.Data
 
         [StringLength(200)]
         public string? Qualification { get; set; }
+
+        public string ImageUrl { get; set; }
+
+        public string Achievements { get; set; }
+
+        public string SocialLink { get; set; }
+
+
 
         // Foreign Key
         [ForeignKey("Department")]

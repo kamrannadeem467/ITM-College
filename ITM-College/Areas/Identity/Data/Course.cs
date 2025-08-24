@@ -19,6 +19,8 @@ namespace ITM_College.Areas.Identity.Data
         [MaxLength(50)]
         public string Duration { get; set; } // Example: "4 Years"
 
+        public string ImageUrl { get; set; }
+
         [ForeignKey("Department")]
         public Guid DepartmentId { get; set; }
 

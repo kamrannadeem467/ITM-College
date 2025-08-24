@@ -1,5 +1,105 @@
-﻿@*
-    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-*@
-@{
-}
+﻿@model IEnumerable<ITM_College.Areas.Identity.Data.Department>
+<section class="grey page-title">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6 text-left">
+                <h1>Departments Information</h1>
+            </div>
+            <div class="col-md-6 text-right">
+                <div class="bread">
+                    <ol class="breadcrumb">
+                        <li><a asp-controller="Home" asp-action="Index">Home</a></li>
+                        <li class="active">All Departments</li>
+                    </ol>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<section class="white section">
+    <div class="container">
+        <div class="row">
+            <div id="course-content" class="col-md-8">
+                @foreach (var dep in Model)
+                {
+                    <div class="course-description">
+                        <h3 class="course-title">@dep.DepartmentName</h3>
+                        <div class="quiz-wrapper">
+                            @* <h4>@dep.DepartmentName</h4> *@
+                            <p>@dep.Description</p>
+                            <div class="row">
+                                <div class="col-md-12">
+                                    <div class="panel panel-primary">
+                                        <div class="panel-body">
+                                            <div class="radio">
+                                                <label>
+                                                   HOD: @dep.HOD
+                                                </label>
+                                            </div>
+                                            <div class="radio">
+                                                <label>
+                                                    Email: @dep.ContactEmail
+                                                </label>
+                                            </div>
+                                            <div class="radio">
+                                                <label>
+                                                    D.Phone: @dep.ContactPhone
+                                                </label>
+                                            </div>
+                                            @{
+                                                int count = 1;
+                                            }
+                                            @foreach (var faculty in dep.Faculties)
+                                            {
+                                                <div class="radio">
+                                                    <label>
+                                                        Faculty :@count.
+                                                    </label>
+                                                </div>
+                                                <ul>
+                                                    <i class="fa fa-check-circle" style="color: green; margin-right:10px"></i>@faculty.FacultyName 
+                                                    <br />
+                                                    <i class="fa fa-check-circle" style="color: green; margin-right:10px"></i>@faculty.Email
+                                                    <br />
+                                                    <i class="fa fa-check-circle" style="color: green; margin-right:10px"></i>@faculty.Phone
+                                                    <br />
+                                                    <i class="fa fa-check-circle" style="color: green; margin-right:10px"></i>@faculty.Designation
+                                                    <br />
+                                                </ul>
+                                                count++;
+                                            }
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                }
+            </div>
+            <div id="course-left-sidebar" class="col-md-4">
+                <div class="course-image-widget">
+                    <img src="~/frontend/upload/xcourse_07.png.pagespeed.ic.KNvblD_Vd1.png" alt="" class="img-responsive">
+                </div>
+                <div class="course-meta">
+                    <p class="course-category">
+                        <a href="@Url.Action("Departments","Home")">All Departments</a>
+                    </p>
+
+                    <hr>
+                    @foreach (var dep in Model.Select(d => new { d.Id, d.DepartmentName }).Distinct())
+                    {
+                        <p class="course-category">
+                            <a asp-controller="Home" asp-action="Departments" asp-route-id="@dep.Id">
+                                @dep.DepartmentName
+                            </a>
+                        </p>
+                        <hr>
+                    }
+                </div>
+                <div class="course-button">
+                    <a href="#" class="btn btn-primary btn-block">TAKE THIS COURSE</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

@@ -1,0 +1,43 @@
+﻿@model ITM_College.Areas.Identity.Data.Facility
+<section class="grey page-title">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-6 text-left">
+				<h1>Single Course Page</h1>
+			</div>
+			<div class="col-md-6 text-right">
+				<div class="bread">
+					<ol class="breadcrumb">
+						<li><a href="#">Home</a></li>
+						<li><a href="#">Courses</a></li>
+						<li class="active">Single Course Page</li>
+					</ol>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+<section class="white section">
+	<div class="container">
+		<div class="row">
+					<div id="course-left-sidebar" class="col-md-4">
+						<div class="course-image-widget">
+							<img src="~/frontend/upload/xcourse_01.png.pagespeed.ic.XTOvCuUmZu.png" alt="" class="img-responsive">
+						</div>
+					</div>
+					<div id="course-content" class="col-md-8">
+							<div class="course-table mb-5">
+							<div class="course-description">
+							<h3 class="course-title">@Model.Title</h3>
+								<p>
+									@Model.Description
+								</p>
+							</div>
+						</div>
+
+					</div>
+		</div>
+		<hr>
+
+	</div>
+</section>

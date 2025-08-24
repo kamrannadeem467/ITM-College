@@ -1,0 +1,103 @@
+﻿@model ITM_College.Areas.Identity.Data.Course
+<section class="grey page-title">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6 text-left">
+                <h1>Course Details</h1>
+            </div>
+            <div class="col-md-6 text-right">
+                <div class="bread">
+                    <ol class="breadcrumb">
+                        <li><a asp-controller="Home" asp-action="Index">Home</a></li>
+                        <li><a asp-controller="Home" asp-action="Courses">Courses</a></li>
+                        <li class="active">@Model.CourseName</li>
+                    </ol>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="white section">
+    <div class="container">
+        <div class="row">
+            <div id="course-left-sidebar" class="col-md-4">
+                <div class="course-image-widget">
+                    <img src="~/frontend/upload/xcourse_01.png.pagespeed.ic.XTOvCuUmZu.png" alt="" class="img-responsive">
+                </div>
+                <div class="course-meta">
+                    <p class="course-student">Credits : @Model.Credits </p>
+                    <hr>
+                    <p class="course-time">Perriod : @Model.Duration </p>
+                    <hr>
+                </div>
+                <div class="course-button">
+                    <a href="#" class="btn btn-primary btn-block">TAKE THIS COURSE</a>
+                </div>
+            </div>
+            <div id="course-content" class="col-md-8">
+                <div class="course-description">
+                    <h3 class="course-title">@Model.CourseName</h3>
+                    <p>@Model.Description</p>
+                </div>
+                <div class="course-table">
+                    <h4>Course Lessons</h4>
+                    <table class="table">
+                        <thead>
+                            <tr>
+                                <th>Type</th>
+                                <th>Lesson Title</th>
+                                <th>Time</th>
+                                <th>Status</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td><i class="fa fa-play-circle"></i></td>
+                                <td><a>Introduction</a></td>
+                                <td>12 Min</td>
+                                <td><i class="fa fa-close"></i></td>
+                            </tr>
+                            <tr>
+                                <td><i class="fa fa-play-circle"></i></td>
+                                <td>Lesson One - What is Photoshop</td>
+                                <td>20 Min</td>
+                                <td><i class="fa fa-close"></i></td>
+                            </tr>
+                            <tr>
+                                <td><i class="fa fa-play-circle"></i></td>
+                                <td>Lesson Two - How to Use Tools</td>
+                                <td>41 Min</td>
+                                <td><i class="fa fa-close"></i></td>
+                            </tr>
+                            <tr>
+                                <td><i class="fa fa-play-circle"></i></td>
+                                <td>Lesson Three - Creating First Homepage</td>
+                                <td>15 Min</td>
+                                <td><i class="fa fa-close"></i></td>
+                            </tr>
+                            <tr>
+                                <td><i class="fa fa-play-circle"></i></td>
+                                <td>Lesson Four - Understanding Colors</td>
+                                <td>29 Min</td>
+                                <td><i class="fa fa-close"></i></td>
+                            </tr>
+                            <tr>
+                                <td><i class="fa fa-play-circle"></i></td>
+                                <td>Lesson Five - International Sizes</td>
+                                <td>31 Min</td>
+                                <td><i class="fa fa-close"></i></td>
+                            </tr>
+                            <tr>
+                                <td><i class="fa fa-question-circle"></i></td>
+                                <td><a href="course-quiz.html">Quiz Time - Your First Quiz</a></td>
+                                <td>31 Min</td>
+                                <td><i class="fa fa-close"></i></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

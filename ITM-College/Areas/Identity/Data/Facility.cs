@@ -12,5 +12,7 @@ namespace ITM_College.Areas.Identity.Data
 
         [StringLength(1000)]
         public string Description { get; set; }
+
+        public string ImageUrl { get; set; }
     }
 }

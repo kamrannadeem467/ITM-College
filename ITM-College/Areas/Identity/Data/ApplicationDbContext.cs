@@ -21,6 +21,7 @@ public class ApplicationDbContext : IdentityDbContext<ITM_CollegeAdmin>
     public DbSet<Course> Courses { get; set; }
     public DbSet<Faculty> Faculties { get; set; }
     public DbSet<Facility> Facilities { get; set; }
+    public DbSet<Contact> Contacts { get; set; }
 
     protected override void OnModelCreating(ModelBuilder builder)
     {

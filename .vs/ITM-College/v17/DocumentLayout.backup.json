@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "D:\\HDSC-1-E-Project\\ITM-College\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{36B9D738-0E36-4EF9-8201-EC3E0FCEA123}|ITM-College\\ITM-College.csproj|d:\\hdsc-1-e-project\\itm-college\\itm-college\\views\\home\\faculties.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{36B9D738-0E36-4EF9-8201-EC3E0FCEA123}|ITM-College\\ITM-College.csproj|solutionrelative:itm-college\\views\\home\\faculties.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{36B9D738-0E36-4EF9-8201-EC3E0FCEA123}|ITM-College\\ITM-College.csproj|d:\\hdsc-1-e-project\\itm-college\\itm-college\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36B9D738-0E36-4EF9-8201-EC3E0FCEA123}|ITM-College\\ITM-College.csproj|solutionrelative:itm-college\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36B9D738-0E36-4EF9-8201-EC3E0FCEA123}|ITM-College\\ITM-College.csproj|d:\\hdsc-1-e-project\\itm-college\\itm-college\\views\\admin\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{36B9D738-0E36-4EF9-8201-EC3E0FCEA123}|ITM-College\\ITM-College.csproj|solutionrelative:itm-college\\views\\admin\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{36B9D738-0E36-4EF9-8201-EC3E0FCEA123}|ITM-College\\ITM-College.csproj|d:\\hdsc-1-e-project\\itm-college\\itm-college\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -18,32 +22,49 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Faculties.cshtml",
-              "DocumentMoniker": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\Views\\Home\\Faculties.cshtml",
-              "RelativeDocumentMoniker": "ITM-College\\Views\\Home\\Faculties.cshtml",
-              "ToolTip": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\Views\\Home\\Faculties.cshtml",
-              "RelativeToolTip": "ITM-College\\Views\\Home\\Faculties.cshtml",
-              "ViewState": "AgIAABYAAAAAAAAAAADwv0YAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-21T07:57:11.18Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\Views\\Admin\\Contact.cshtml",
+              "RelativeDocumentMoniker": "ITM-College\\Views\\Admin\\Contact.cshtml",
+              "ToolTip": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\Views\\Admin\\Contact.cshtml",
+              "RelativeToolTip": "ITM-College\\Views\\Admin\\Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-23T07:22:28.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "ITM-College\\Controllers\\AdminController.cs",
+              "ToolTip": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "ITM-College\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAMBAAAAAAAAAAAkwA0BAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T07:17:34.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "ITM-College\\Controllers\\HomeController.cs",
               "ToolTip": "D:\\HDSC-1-E-Project\\ITM-College\\ITM-College\\Controllers\\HomeController.cs",
               "RelativeToolTip": "ITM-College\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAABwAAAAAMjMzMzMDwCoAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAH0AAAAAzszMzMwMwIkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-21T05:33:14.968Z",
+              "WhenOpened": "2025-08-22T03:40:39.967Z",
               "EditorCaption": ""
             }
           ]

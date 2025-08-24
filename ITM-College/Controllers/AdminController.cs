@@ -266,5 +266,22 @@ namespace ITM_College.Controllers
             _context.SaveChanges();
             return RedirectToAction("Facility", "Admin");
         }
+
+        public IActionResult Contact()
+        {
+            var contacts = _context.Contacts.ToList();
+            return View(contacts);
+        }
+        public IActionResult DeleteContact(Guid id)
+        {
+            var contacts = _context.Contacts.Find(id);
+            if (contacts == null)
+            {
+                return NotFound();
+            }
+            _context.Contacts.Remove(contacts);
+            _context.SaveChanges();
+            return RedirectToAction("Contact", "Admin");
+        }
     }
 }

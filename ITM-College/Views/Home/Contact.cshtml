@@ -1,0 +1,110 @@
+﻿<article id="contact" class="map-section">
+    <div id="map" class="wow slideInUp"></div>
+</article>
+<section class="white section">
+    <div class="container">
+        <div class="row contact-wrapper">
+            <div class="col-md-9 col-sm-9 col-xs-12 content-widget">
+                <div class="widget-title">
+                    <h4>Contact Form</h4>
+                    <hr>
+                </div>
+                <div id="contact_form" class="contact_form row">
+                    <div id="message"></div>
+                    <form id="contactform" name="contactform" method="post">
+                        @Html.AntiForgeryToken()
+
+                        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+                            <input type="text" name="Name" id="Name" class="form-control" placeholder="Name *" required>
+                            <input type="email" name="Email" id="Email" class="form-control" placeholder="Email *" required>
+                            <input type="text" name="Subject" id="Subject" class="form-control" placeholder="Subject *" required>
+                        </div>
+                        <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
+                            <textarea class="form-control" name="Message" id="Message" rows="6" placeholder="Message *" required></textarea>
+                            <button type="submit" id="submit" class="btn btn-primary btn-block">Send Message</button>
+                        </div>
+                    </form>
+
+                    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+                    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+                    <script>
+                        $(document).ready(function () {
+
+                            // **Live Email Check (Optional)**
+                            $('#Email').on('blur', function () {
+                                var email = $(this).val();
+                                if (email !== '') {
+                                    $.get('/Home/CheckEmail?email=' + email, function (exists) {
+                                        if (exists) {
+                                            Swal.fire({
+                                                icon: 'warning',
+                                                title: 'Already Used',
+                                                text: 'This email has already submitted a message!',
+                                                timer: 2500
+                                            });
+                                        }
+                                    });
+                                }
+                            });
+
+                            // **Form Submit**
+                            $('#contactform').on('submit', function (e) {
+                                e.preventDefault();
+
+                                $.ajax({
+                                    url: '/Home/SaveContact',
+                                    type: 'POST',
+                                    data: $(this).serialize(),
+                                    success: function (response) {
+                                        if (response.success) {
+                                            Swal.fire({
+                                                icon: 'success',
+                                                title: 'Thank You!',
+                                                text: response.message,
+                                                showConfirmButton: false,
+                                                timer: 2000
+                                            });
+                                            $('#contactform')[0].reset();
+                                        } else {
+                                            Swal.fire({
+                                                icon: 'error',
+                                                title: 'Oops...',
+                                                text: response.message
+                                            });
+                                        }
+                                    },
+                                    error: function (xhr) {
+                                        console.log(xhr.responseText);
+                                        Swal.fire({
+                                            icon: 'error',
+                                            title: 'Something Went Wrong',
+                                            text: 'Please try again later.'
+                                        });
+                                    }
+                                });
+                            });
+                        });
+                    </script>
+
+
+                </div>
+            </div>
+            <div class="col-md-3 col-sm-3 col-xs-12 content-widget">
+                <div class="widget-title">
+                    <h4>Contact Details</h4>
+                    <hr>
+                </div>
+                <div class="contact-list">
+                    <ul class="contact-details">
+                        <li><i class="fa fa-link"></i> <a href="#">www.itmcollege.com</a></li>
+                        <li><i class="fa fa-envelope"></i> <a href="mailto:info@yoursite.com">info@itmcollege.com</a></li>
+                        <li><i class="fa fa-phone"></i> +92 123 45 67 890</li>
+                        <li><i class="fa fa-fax"></i> +92 123 45 68 902</li>
+                        <li><i class="fa fa-home"></i> ITM-College, Metro Stargete Center, Main ShahreFaisal Road, Karachi</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

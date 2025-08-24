@@ -21,5 +21,9 @@ namespace ITM_College.Areas.Identity.Data
 
         [StringLength(15)]
         public string? ContactPhone { get; set; }
+
+        public string ImageUrl { get; set; }
+
+        public ICollection<Faculty> Faculties { get; set; }
     }
 }
